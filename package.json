@@ -1,0 +1,25 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripun008/cypress-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ripun008/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/ripun008/cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^15.5.0",
+    "dotenv": "^17.2.3",
+    "jwt-decode": "^3.1.2",
+    "typescript": "^5.9.3"
+  }
+}
